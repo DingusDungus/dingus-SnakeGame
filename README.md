@@ -10,4 +10,4 @@ You install the game easily through `make clean all`. The compilation uses `lld`
 I merely created this very small project to better my skills in OO programming and of course, C++. You have full rights to do whatever you want with it. If you find any bugs I'd appreciate if you contact me through **gabriel.ivars01@protonmail.com**<br><br>
 Hope all is good in these trying times<br>
 
-<p>- DingusDungus </p>
+<p>- Dingus </p>
